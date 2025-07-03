@@ -128,4 +128,4 @@ src/
 npm run build
 ```
 
-**Note**: This is a frontend-only demonstration. All data is stored locally and no real medical information should be used.
+**Note**: This is a frontend-only demo. All data is stored locally and no real medical information should be used.
